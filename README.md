@@ -32,7 +32,7 @@ Desenvolvida durante a live da DIO.
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-Rocketseat
+Digital Innovation One
 
 
 ---
